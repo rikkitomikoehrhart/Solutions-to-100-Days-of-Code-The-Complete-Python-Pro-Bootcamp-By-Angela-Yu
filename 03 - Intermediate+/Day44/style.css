@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+
+* {
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.25rem;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+}
+
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+}
